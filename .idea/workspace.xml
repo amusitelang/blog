@@ -2,7 +2,182 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10ff4fcf-16bc-41be-b93b-c7e0cb93d765" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/README_CN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/languages/default.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/languages/zh-CN.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/back-top.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/bg-cover.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/disqus.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/gitalk.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/github-link.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/gitment.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/google-analytics.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/head.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/header.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/livere.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/mobile-nav.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/navigation.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/paging.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/post-cover.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/post-detail-toc.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/post-detail.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/post-statis.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/prev-next.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/reward.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/search.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/share.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/social-link.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_partial/valine.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_widget/category-cloud.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_widget/category-radar.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_widget/dream.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_widget/music.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_widget/my-gallery.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_widget/my-projects.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_widget/my-skills.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_widget/post-calendar.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_widget/post-charts.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_widget/recommend.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_widget/tag-cloud.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_widget/tag-wordcloud.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/_widget/video.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/about.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/archive.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/categories.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/category.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/friends.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/layout.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/post.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/tag.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/tags.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/css/gitment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/css/matery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/css/my-gitalk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/css/my.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/js/matery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/js/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/animate/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/aos/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/aos/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/aplayer/APlayer.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/aplayer/APlayer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/cryptojs/crypto-js.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/dplayer/DPlayer.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/dplayer/DPlayer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/echarts/echarts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/gitalk/gitalk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/gitalk/gitalk.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/gitment/gitment-default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/gitment/gitment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/jqcloud/jqcloud-1.0.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/jqcloud/jqcloud.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/jquery/jquery-2.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/lightGallery/css/lightgallery.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/lightGallery/fonts/lg.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/lightGallery/fonts/lg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/lightGallery/fonts/lg.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/lightGallery/fonts/lg.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/lightGallery/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/lightGallery/img/video-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/lightGallery/img/vimeo-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/lightGallery/img/youtube-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/lightGallery/js/lightgallery-all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/masonry/masonry.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/css/materialize.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/material-design-icons/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/material-design-icons/Material-Design-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/material-design-icons/Material-Design-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/material-design-icons/Material-Design-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/material-design-icons/Material-Design-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/material-design-icons/Material-Design-Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/font/roboto/Roboto-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/materialize/js/materialize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/others/busuanzi.pure.mini.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/others/clicklove.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/scrollprogress/scrollProgress.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/share/css/share.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/share/fonts/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/share/fonts/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/share/fonts/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/share/fonts/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/share/js/jquery.share.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/share/js/social-share.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/tocbot/tocbot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/tocbot/tocbot.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/valine/Valine.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/libs/valine/av-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/banner/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/banner/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/banner/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/banner/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/banner/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/banner/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/banner/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/featureimages/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/reward/alipay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/source/medias/reward/wechat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,17 +217,65 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="850168583">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ejs" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="md" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="EJS" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="yml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="YAML" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/README_CN.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="266" lean-forward="true" selection-start-line="266" selection-end-line="266" />
             </state>
           </provider>
         </entry>
@@ -66,6 +289,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/source/_posts/hello-world.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -84,7 +308,7 @@
       <path value="$PROJECT_DIR$/themes/landscape/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1616" />
@@ -95,6 +319,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,20 +335,19 @@
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -149,23 +373,20 @@
       <option name="presentableId" value="Default" />
       <updated>1552457519173</updated>
       <workItem from="1552457520595" duration="86000" />
+      <workItem from="1552649909021" duration="2478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86000" />
+    <option name="totallyTimeSpent" value="2564000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11779607" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20892194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -173,6 +394,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49962825" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50037175" side_tool="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -185,13 +410,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/layout/about.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-matery-1.0.1/README_CN.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="266" lean-forward="true" selection-start-line="266" selection-end-line="266" />
         </state>
       </provider>
     </entry>
